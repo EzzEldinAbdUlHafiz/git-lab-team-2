@@ -1,2 +1,3 @@
 Project Ideas:
 ==============
+ezzeldin: build a weather app using an API
