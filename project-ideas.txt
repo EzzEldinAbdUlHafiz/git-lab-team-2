@@ -1,2 +1,3 @@
 Project Ideas:
 ==============
+- Mohanad: build a ci/cd pipeline using docker
