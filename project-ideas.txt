@@ -1,2 +1,3 @@
 Project Ideas:
 ==============
+fatma: Build a weather app using an API

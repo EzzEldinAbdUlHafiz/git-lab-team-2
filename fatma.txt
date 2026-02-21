@@ -1,0 +1,5 @@
+Name: Fatma Osman
+Role: Frontend Developer
+Skills: HTML, CSS, JavaScript
+Hobby: Reading
+Fun fact: I love building creative web projects
