@@ -1,5 +1,6 @@
 Project Ideas:
 ==============
+- Kareem waleed: Build a weather app using an API
 fatma: Build a weather app using an API
 - Mohanad: build a ci/cd pipeline using docker
 ezzeldin: build a weather app using an API
