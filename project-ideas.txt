@@ -1,3 +1,4 @@
 Project Ideas:
 ==============
+- Mohanad: build a ci/cd pipeline using docker
 ezzeldin: build a weather app using an API
